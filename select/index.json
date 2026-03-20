@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "アイ・アイ・ア",
+  "base_artist": "Ado",
+  "createdAt": "2026-03-20T12:51:05.122648Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイ・アイ・ア",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_アイ・アイ・ア_Ado.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アイ・アイ・ア",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_アイ・アイ・ア_Ado.lrc",
+      "repo_name": "d1BG-5F9wo8"
+    }
+  ]
+}
